@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\bin\Debug\net6.0\Services.dll
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\obj\Debug\net6.0\Services.dll
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\Acer\OneDrive\Máy tính\Session08-PE\PE_PRN211_SP24_PracticalTest_DuongDucManh\Services\obj\Debug\net6.0\ref\Services.dll

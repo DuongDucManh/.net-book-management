@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\5th_Semester\\.net\\projects1\\PE_PRN211_SP24_PracticalTest_DuongDucManh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{073668D6-9CB2-4601-A71C-4CF196D8DC8A}|Repositories\\Repositories.csproj|d:\\study\\5th_semester\\.net\\projects1\\pe_prn211_sp24_practicaltest_duongducmanh\\repositories\\bookmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073668D6-9CB2-4601-A71C-4CF196D8DC8A}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F88698-77F3-49F3-AE8B-B1246B2EFEB3}|BookManagement_DuongDucManh\\BookManagement_DuongDucManh.csproj|d:\\study\\5th_semester\\.net\\projects1\\pe_prn211_sp24_practicaltest_duongducmanh\\bookmanagement_duongducmanh\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F88698-77F3-49F3-AE8B-B1246B2EFEB3}|BookManagement_DuongDucManh\\BookManagement_DuongDucManh.csproj|solutionrelative:bookmanagement_duongducmanh\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F88698-77F3-49F3-AE8B-B1246B2EFEB3}|BookManagement_DuongDucManh\\BookManagement_DuongDucManh.csproj|D:\\Study\\5th_Semester\\.net\\projects1\\PE_PRN211_SP24_PracticalTest_DuongDucManh\\bookmanagement_duongducmanh\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6F88698-77F3-49F3-AE8B-B1246B2EFEB3}|BookManagement_DuongDucManh\\BookManagement_DuongDucManh.csproj|solutionrelative:bookmanagement_duongducmanh\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManagementContext.cs",
+              "DocumentMoniker": "D:\\Study\\5th_Semester\\.net\\projects1\\PE_PRN211_SP24_PracticalTest_DuongDucManh\\Repositories\\BookManagementContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookManagementContext.cs",
+              "ToolTip": "D:\\Study\\5th_Semester\\.net\\projects1\\PE_PRN211_SP24_PracticalTest_DuongDucManh\\Repositories\\BookManagementContext.cs",
+              "RelativeToolTip": "Repositories\\BookManagementContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:08:31.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Study\\5th_Semester\\.net\\projects1\\PE_PRN211_SP24_PracticalTest_DuongDucManh\\BookManagement_DuongDucManh\\LoginForm.cs",
+              "RelativeDocumentMoniker": "BookManagement_DuongDucManh\\LoginForm.cs",
+              "ToolTip": "D:\\Study\\5th_Semester\\.net\\projects1\\PE_PRN211_SP24_PracticalTest_DuongDucManh\\BookManagement_DuongDucManh\\LoginForm.cs",
+              "RelativeToolTip": "BookManagement_DuongDucManh\\LoginForm.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:56:31.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\5th_Semester\\.net\\projects1\\PE_PRN211_SP24_PracticalTest_DuongDucManh\\BookManagement_DuongDucManh\\LoginForm.cs",
+              "RelativeDocumentMoniker": "BookManagement_DuongDucManh\\LoginForm.cs",
+              "ToolTip": "D:\\Study\\5th_Semester\\.net\\projects1\\PE_PRN211_SP24_PracticalTest_DuongDucManh\\BookManagement_DuongDucManh\\LoginForm.cs [Design]",
+              "RelativeToolTip": "BookManagement_DuongDucManh\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-26T08:56:07.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
